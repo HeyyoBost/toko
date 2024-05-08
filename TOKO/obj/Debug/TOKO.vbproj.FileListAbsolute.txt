@@ -1,0 +1,60 @@
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\bin\Debug\TOKO.exe.config
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\bin\Debug\TOKO.exe
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\bin\Debug\TOKO.pdb
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\bin\Debug\TOKO.xml
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.Resources.resources
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.vbproj.GenerateResource.Cache
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.exe
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.xml
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.pdb
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.Form1.resources
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.frlogin.resources
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.frmenu.resources
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.frbarang.resources
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\bin\Debug\System.Net.Http.dll
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\bin\Debug\System.Net.Http.xml
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.Form1.resources
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.frbarang.resources
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.frlogin.resources
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.frmenu.resources
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.Resources.resources
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.vbproj.GenerateResource.Cache
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\bin\Debug\TOKO.exe.config
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\bin\Debug\TOKO.exe
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\bin\Debug\TOKO.pdb
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\bin\Debug\TOKO.xml
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\bin\Debug\System.Net.Http.dll
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\bin\Debug\System.Net.Http.xml
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.exe
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.xml
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.pdb
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.frsupplier.resources
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.frpelanggan.resources
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.frbarangmasuk.resources
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.frcarisupplier.resources
+D:\KHAIRUL IMT\PROJECT POS\TOKO\TOKO\obj\Debug\TOKO.vbprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\TOKO\TOKO\bin\Debug\TOKO.exe.config
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.exe
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.xml
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.pdb
+C:\Users\Test\Desktop\TOKO\TOKO\bin\Debug\TOKO.exe
+C:\Users\Test\Desktop\TOKO\TOKO\bin\Debug\TOKO.pdb
+C:\Users\Test\Desktop\TOKO\TOKO\bin\Debug\TOKO.xml
+C:\Users\Test\Desktop\TOKO\TOKO\bin\Debug\System.Net.Http.dll
+C:\Users\Test\Desktop\TOKO\TOKO\bin\Debug\System.Net.Http.xml
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.vbprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.Form1.resources
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.frbarang.resources
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.frbarangmasuk.resources
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.frcarisupplier.resources
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.frlogin.resources
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.frmenu.resources
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.frpelanggan.resources
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.frsupplier.resources
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.Resources.resources
+C:\Users\Test\Desktop\TOKO\TOKO\obj\Debug\TOKO.vbproj.GenerateResource.Cache
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.vbprojResolveAssemblyReference.cache
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.frbarangmasuk.resources
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.frcarisupplier.resources
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.frpelanggan.resources
+D:\VBNET LEARN\khairul imt\TOKO\TOKO\obj\Debug\TOKO.frsupplier.resources
